@@ -1,0 +1,12 @@
+tests/test_graph.py::test_shortest_paths_match_networkx[w_time] PASSED
+tests/test_graph.py::test_shortest_paths_match_networkx[w_distance] PASSED
+tests/test_graph.py::test_astar_explores_no_more_than_dijkstra PASSED
+tests/test_graph.py::test_kruskal_and_prim_match_networkx PASSED
+tests/test_graph.py::test_bfs_dfs_components PASSED
+tests/test_graph.py::test_bridges_match_networkx PASSED
+tests/test_graph.py::test_closed_roads_change_route_and_can_disconnect PASSED
+tests/test_graph.py::test_alternative_routes PASSED
+tests/test_graph.py::test_traffic_model_bpr PASSED
+tests/test_graph.py::test_peak_traffic_slows_trips PASSED
+tests/test_graph.py::test_bad_input PASSED
+11 passed in 0.24s

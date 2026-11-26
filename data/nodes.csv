@@ -1,0 +1,33 @@
+id,name,x_km,y_km,kind
+N01,Northgate,-0.19,5.201,junction
+N02,Maple Court,1.306,5.38,junction
+N03,Riverside,2.401,5.062,junction
+N04,Old Market,3.951,5.228,commercial
+N05,Lake View,5.342,5.224,junction
+N06,Eastfield,6.615,5.334,junction
+N07,Parkside,0.126,3.943,junction
+N08,Tech Park,1.17,3.957,office
+N09,Central Station,2.405,4.058,transit
+N10,City Hospital,3.875,4.057,hospital
+N11,Mall Road,5.293,3.99,commercial
+N12,Harbor Point,6.355,3.776,junction
+N13,Green Avenue,0.24,2.815,junction
+N14,University,1.453,2.85,education
+N15,Town Hall,2.607,2.388,junction
+N16,Clock Tower,3.82,2.629,junction
+N17,Sunrise Colony,5.096,2.579,junction
+N18,Stadium,6.688,2.702,leisure
+N19,Westend,0.039,1.062,junction
+N20,Industrial Area,1.405,1.232,industrial
+N21,Bus Terminal,2.561,1.249,transit
+N22,Civil Lines,3.943,1.299,junction
+N23,Airport Road,5.008,1.303,airport
+N24,Southgate,6.625,1.35,junction
+N25,Hillcrest,-0.004,0.208,junction
+N26,Metro Hub,1.179,-0.04,transit
+N27,Garden Estate,2.813,-0.01,junction
+N28,Ring Junction,3.909,-0.237,junction
+N29,Fort View,5.062,-0.186,junction
+N30,Sports Complex,6.274,0.102,junction
+N31,Lakeside Village,-1.2,2.6,junction
+N32,Quarry Hamlet,7.8,0.4,junction
